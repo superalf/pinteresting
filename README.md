@@ -1,6 +1,6 @@
 # One Month Rails
 
-This is a pinteresting sample app for One Month Rails   [*One Month Rails*] (http://onemonthrails.com)
+This is a pinteresting sample app for One Month Rails   [*One Month Rails*](http://onemonthrails.com)
 
 by Mattan Griffel
 
